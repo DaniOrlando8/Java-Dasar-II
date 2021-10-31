@@ -10,8 +10,8 @@ public class Main {
         
             //   1         2      3
         for (int i = 0; i <= 10; i++){
-            System.out.println(i); 
-        }   //                 4
+            System.out.println(); 
+        }   //                4
     }
 }
 /* ~ Loop for ~
